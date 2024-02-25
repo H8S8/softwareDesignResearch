@@ -50,3 +50,4 @@ https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/
 https://www.geeksforgeeks.org/structured-analysis-and-structured-design-sa-sd/
 https://www.geeksforgeeks.org/software-engineering-function-oriented-design/
 https://en.wikipedia.org/wiki/Strategy_pattern
+https://medium.com/@alityson.pratik/object-oriented-vs-functional-design-patterns-part-i-the-strategy-design-pattern-d78016afda5e
